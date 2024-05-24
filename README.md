@@ -6,7 +6,7 @@ Full Stack Web Developer
 
 * 🌍  I'm based in Vancouver
 * 🖥️  See my portfolio at [My Website](http://sinarahmannejad.com/)
-* ✉️  You can contact me at [sinarahmannejad@gmail.com](mailto:sinarahmannejad@gmail.com)
+* ✉️  You can contact me at [info@sinarahmannejad.com](mailto:info@sinarahmannejad.com)
 
 ### Skills
 
