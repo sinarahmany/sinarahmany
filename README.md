@@ -1,37 +1,87 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sina 
-========================================================================================================================================
+<!-- 
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   ███████╗██╗███╗   ██╗ █████╗     ██████╗  █████╗ ██╗  ██╗███╗   ███╗       ║
+║   ██╔════╝██║████╗  ██║██╔══██╗    ██╔══██╗██╔══██╗██║  ██║████╗ ████║       ║
+║   ███████╗██║██╔██╗ ██║███████║    ██████╔╝███████║███████║██╔████╔██║       ║
+║   ╚════██║██║██║╚██╗██║██╔══██║    ██╔══██╗██╔══██║██╔══██║██║╚██╔╝██║       ║
+║   ███████║██║██║ ╚████║██║  ██║    ██║  ██║██║  ██║██║  ██║██║ ╚═╝ ██║       ║
+║   ╚══════╝╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝       ║
+║                                                                              ║
+║            🚀 FULL STACK WEB DEVELOPER • PROBLEM SOLVER • CREATOR 🚀         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+-->
 
-Full Stack Web Developer
-------------------------
+<div align="center">
 
-* 🌍  I'm based in Vancouver
-* 🖥️  See my portfolio at [My Website](http://sinarahmannejad.com/)
-* ✉️  You can contact me at [info@sinarahmannejad.com](mailto:info@sinarahmannejad.com)
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,20,16,12,6&height=220&section=header&text=Sina%20Rahmannejad&fontSize=52&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Web%20Developer&descSize=20&descAlignY=68" width="100%" alt="Header Banner"/>
 
-### Skills
+  <br/>
 
+  <!-- ═════════════════════════════════════════════════════════════════════════ -->
+  <!-- 📊 PROFILE BADGES                                                         -->
+  <!-- ═════════════════════════════════════════════════════════════════════════ -->
 
-<p align="left">
-<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="36" height="36" alt="Vue" /></a><a href="https://nuxtjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nuxtjs-colored.svg" width="36" height="36" alt="Nuxtjs" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="36" height="36" alt="Laravel" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-</p>
+  <a href="https://github.com/sinarahmany">
+    <img src="https://komarev.com/ghpvc/?username=sinarahmany&label=Profile%20Views&color=ef4444&style=flat-square" alt="Profile Views"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sinarahmany?tab=repositories">
+    <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsinarahmany&query=%24.public_repos&suffix=%2B&label=Repositories&style=flat-square&color=f43f5e&labelColor=1c1917" alt="Repositories"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sinarahmany?tab=followers">
+    <img src="https://img.shields.io/github/followers/sinarahmany?label=Followers&style=flat-square&color=ef4444&labelColor=1c1917" alt="Followers"/>
+  </a>
+  &nbsp;
+  <a href="https://github.com/sinarahmany">
+    <img src="https://img.shields.io/github/stars/sinarahmany?label=Stars&style=flat-square&color=b91c1c&labelColor=1c1917" alt="Stars"/>
+  </a>
 
+</div>
 
-### Socials
+<br/>
 
-<p align="left"> <a href="https://www.github.com/sinarahmany" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/sina-rahmannejad/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+</div>
 
-### Badges
+<br/>
 
-<b>My GitHub Stats</b>
+<div align="center">
+  <img src="./sina-terminal.svg" alt="Terminal Introduction" width="650"/>
+</div>
 
-<a href="http://www.github.com/sinarahmany"><img src="https://github-readme-stats.vercel.app/api?username=sinarahmany&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ffffff&icon_color=ef4444&bg_color=1c1917&hide_border=true&show_icons=true" alt="sinarahmany's GitHub stats" /></a>
+<br/>
 
-<a href="http://www.github.com/sinarahmany"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sinarahmany&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
+<!-- 👤 ABOUT ME SECTION                                                         -->
+<!-- ═══════════════════════════════════════════════════════════════════════════ -->
 
-### Support Me
+## 👤 About Me
 
-<ul style="list-style-type: none; margin: 0;">
+<table>
+<tr>
+<td width="55%" valign="top">
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sinarahmannejad"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+### 🎯 Who I Am
 
-</ul>
+```yaml
+name: Sina Rahmannejad
+role: Full Stack Web Developer
+located_in: Vancouver, Canada 🇨🇦
+portfolio: sinarahmannejad.com
+email: info@sinarahmannejad.com
+
+core_specialties:
+  - 🌐 Frontend Architecture (Vue / React / Next / Nuxt)
+  - ⚙️ Backend & API Development (PHP / Laravel / Node)
+  - 🗄️ Relational Database Engineering (MySQL)
+  - 🎨 Modern UI & Responsive Styling (TailwindCSS / Bootstrap)
+
+passions:
+  - Building performant & accessible web applications
+  - Clean, modular, and maintainable architecture
+  - Continuous exploration of modern web technologies
